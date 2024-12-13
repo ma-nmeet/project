@@ -2,7 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 
 public class Calculator {
-	JFrame frame=new JFrame("Calculator");
+	JFrame frame=new JFrame("Calculator"); 
 	JTextField textbox=new JTextField("0");
 	JButton[] bt=new JButton[20];
 	JPanel panel=new JPanel();
